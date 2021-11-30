@@ -24,4 +24,4 @@ I'm using some classics excerpts in the folder data to training set, like Confuc
 
 ## Classes and Relationships
 
-![class_diagram](class_diagram.png)
+![](./class_diagram.jpg)
